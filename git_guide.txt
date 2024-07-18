@@ -1,0 +1,8 @@
+1.file 만들어주고 git init으로 initialized
+2. git remote add orgin (address) - github repository address : local file 과 github repository를 연결하는 command
+----------------------------------------------------------------------------------------------------------------------------------
+3. git pull origin master : 지정 해놓은 Repository에서 끌어오는 command
+4. git status : 현재 local folder 와 git 과의 sink 상태를 확인
+5. git add. 변경된 파일들을 모두 tracking 하는 command
+6. git commit -m "message" : 코멘트 같은것
+7. git push origin +master : git에 push를 "요청"하는 명령어
