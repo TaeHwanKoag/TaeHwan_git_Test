@@ -7,3 +7,4 @@
 6. git commit -m "message" : 코멘트 같은것
 7. git push origin +master : git에 push를 "요청"하는 명령어
 tip : 한번 file에 git을 연결하면 다음부터 git remote add origin 필요 x, git init도 필요 x  
+tip : 다른사람이 작업한 내용을 pull 하지 않고 push를 해버리면 그대로 덮어쓸 위험이 있으므로 항상 Pull로 최신화 시킨후 Push 를 하자.
