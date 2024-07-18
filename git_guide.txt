@@ -6,3 +6,4 @@
 5. git add . 변경된 파일들을 모두 tracking 하는 command (. 은 모든 파일을 tracking 하겠다는말)
 6. git commit -m "message" : 코멘트 같은것
 7. git push origin +master : git에 push를 "요청"하는 명령어
+tip : 한번 file에 git을 연결하면 다음부터 git remote add origin 필요 x, git init도 필요 x  
